@@ -16,6 +16,8 @@ there can be no meaningful change.
 > 1. **Why did you select these elements? Why are they sticking with you?**
 > 2. **What connections can you see between Dr. Sánchez's session and the readings and discussions so far? What connections can you make to your life or to our Miramar students?**
 
+The curriculum, especially in the field of Computer Science, should align with the needs of the job market. It's crucial for young programmers to learn how software is developed, not only to secure employment but also to undergo a steep learning curve. Additionally, all of my students aim to enter the workforce immediately after graduation. While personal growth is important, practical application of skills is essential for transitioning from student to professional. Recently, I updated the curriculum by removing outdated courses and incorporating those that are currently in demand in the job market, based on feedback from our advisory board members. This has not only attracted more students but also increased their motivation, as they feel they are learning what is truly relevant.
+
 # 3. Discuss one specific change you can implement from CREATE so far.
 
 > 1. **What small modifications can you make to your classrooms or counseling sessions?**
